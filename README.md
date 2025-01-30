@@ -32,6 +32,12 @@ Developed measures to calculate key performance indicators (KPIs) that help in d
 
 ## Dashboard
 
+![image](https://github.com/user-attachments/assets/d2400209-d2f8-49f8-b6d2-50821e68b88c)
+
+![image](https://github.com/user-attachments/assets/deb2b98f-7ba2-49e3-8d1f-edc3c3b52f43)
+
+
+
 ## Insights
 
 1.	19.3% of the revenue is coming from weekdays, while the remaining 80.7% is from weekends. This suggests that weekends are the primary source of revenue in the business, which is typical in many hospitality sectors, as people often travel or dine out more on weekends.
