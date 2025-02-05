@@ -34,7 +34,10 @@ Developed measures to calculate key performance indicators (KPIs) that help in d
 
 ![image](https://github.com/user-attachments/assets/d2400209-d2f8-49f8-b6d2-50821e68b88c)
 
-![image](https://github.com/user-attachments/assets/deb2b98f-7ba2-49e3-8d1f-edc3c3b52f43)
+![image](https://github.com/user-attachments/assets/ac1a0b09-b2c0-4878-b314-a98ede620376)
+![image](https://github.com/user-attachments/assets/a3c52680-de5a-48f1-9545-6e55fc9ec400)
+
+
 
 
 
